@@ -15,6 +15,7 @@ For information on Michigan's RAP efforts, see [LEO - Registered Apprenticeships
 This RAP [Appendix A](ThePestoGroup_Appendix.pdf) outlines the occupational standards that define this workforce development experience.
 
 The Pesto Group apprentices - Fall 2023 Cohort
+
 | Apprentice         |   Mentor           |
 |--------------------|--------------------|
 | Aaron Venema       | Andy Korzeniewski  |
