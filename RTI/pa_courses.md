@@ -5,10 +5,10 @@ layout: default
 
 #### U.S. Department of Labor
 ### Registered Apprenticeship Program
-## RTI Schedule - Fall 2023
+## RTI Courses - The Pesto Group
 
-Topics and schedule
-- PA010 Introduction to Linux
+#### Courses
+- **PA010 Introduction to Linux**
     - Outcomes/Objectives - As an apprentice, I will
         - Create, move, and delete files and directories under the working directory.
         - Use terminal commands and text editors to manage project files.
@@ -22,7 +22,7 @@ Topics and schedule
     - Assessments/Certification
         - [Linux Essentials - Linux Professional Institute](https://www.lpi.org/our-certifications/linux-essentials-overview/)
 
-- PA020 Introduction to Git and GitHub
+- **PA020 Introduction to Git and GitHub**
     - Outcomes/Objectives - As an apprentice, I will 
         - Commit code to git version control.
         - Create and manage a GitHub repository.
@@ -34,7 +34,7 @@ Topics and schedule
     - Assessments/Certification
         - Git SkillCred Credential | Linux Foundation(https://training.linuxfoundation.org/skillcred/git/)
 
-- PA100 Web development using Ruby on Rails 7
+- **PA100 Web development using Ruby on Rails 7**
     - Outcomes/Objectives - As an apprentice, I will 
         - Create interactive web applications using a model, view, controller (MVC) framework.
         - Access files and resources in the Rails directory structure.
@@ -52,7 +52,7 @@ Topics and schedule
         - [Agile Web Development with Rails 7](https://a.co/d/4iAYHEC) 
         - [Learn Ruby on Rails | Codecademy](https://www.codecademy.com/learn/learn-rails)
     - Assessments/Certification
-        - Final project/solution - tentative: refactor of existing AirTable RAP App
+        - Final project/solution - tentative: refactor of existing AirTable *RAP App*
         - Codecademy Certificate of completion
 
 
