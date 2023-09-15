@@ -79,4 +79,8 @@ The Pesto Group has created beta RAP dashboards using the AirTable service. Use 
     - RAP $3500/apprentice/year (RAP is a one year program likely spanning two years, so total per is $7000)
     - Professional development for mentors/engineering? 
         - $2000 per
-        - Must be external training. No self-paced online but synchronous or hybrid virtual is okay.   
+        - Must be external training. No self-paced online but synchronous or hybrid virtual is okay.
+        - Must lead to credential (very flexible!)
+        - Training plan required with submission
+            - Course, certificate, and cost
+            - Participant/trainee names   
