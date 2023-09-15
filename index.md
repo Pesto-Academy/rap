@@ -66,3 +66,17 @@ The Pesto Group has created beta RAP dashboards using the AirTable service. Use 
     - [Apprentice Logs](https://airtable.com/appYsh95toLfL0ByK/pagZ7PJ1bzIDbAZky)
 
 ---
+
+[**Related Technical Instruction**](RTI/index.md)
+- [PA Courses](RTI/pa_courses.md)
+- [RTI Schedule 2023 Q4](RTI/2024.q4.schedule.md)(tentative)
+
+**Additional Discussions**
+- Going Pro funding
+    - ![Alt text](GoingProReimbursements.jpg)
+
+    - Use OJT for onboarding of potential RAPs? $2000 for OJT training. On-site/internal is okay
+    - RAP $3500/apprentice/year (RAP is a one year program likely spanning two years, so total per is $7000)
+    - Professional development for mentors/engineering? 
+        - $2000 per
+        - Must be external training. No self-paced online but synchronous or hybrid virtual is okay.   
