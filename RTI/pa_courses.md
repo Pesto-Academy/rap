@@ -18,7 +18,7 @@ layout: default
         - Create and manage users and groups.
         - View, create and kill system processes.
     - Learning Resources
-        - Linux Essentials [lpi.org](https://learning.lpi.org/en/learning-materials/010-160/)
+        - [Linux Essentials lpi.org](https://learning.lpi.org/en/learning-materials/010-160/)
     - Assessments/Certification
         - [Linux Essentials - Linux Professional Institute](https://www.lpi.org/our-certifications/linux-essentials-overview/)
 
@@ -32,7 +32,7 @@ layout: default
     - Learning Resources
         - [The Linux Foundation: Git for Distributed Software Development](https://training.linuxfoundation.org/training/git-for-distributed-software-development-lfd109x/)
     - Assessments/Certification
-        - Git SkillCred Credential | Linux Foundation(https://training.linuxfoundation.org/skillcred/git/)
+        - [Git SkillCred Credential | Linux Foundation](https://training.linuxfoundation.org/skillcred/git/)
 
 - **PA100 Web development using Ruby on Rails 7**
     - Outcomes/Objectives - As an apprentice, I will 
@@ -53,6 +53,6 @@ layout: default
         - [Learn Ruby on Rails | Codecademy](https://www.codecademy.com/learn/learn-rails)
     - Assessments/Certification
         - Final project/solution - tentative: refactor of existing AirTable *RAP App*
-        - Codecademy Certificate of completion
+        - Codecademy Certificate of Completion
 
 
