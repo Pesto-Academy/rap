@@ -22,7 +22,6 @@ Unix-like operating system for office computers.
 <summary>Does Linux contain Unix code?</summary>
 No.
 </details>
-<br>
 
 #### 1.1.1 Distributions
 
@@ -35,36 +34,70 @@ are maintained by a company or user community.
 
 <details>
 <summary>Distribution families include...</summary>
-Debian GNU/Linux<br> Ubuntu<br> Red Hat 
+Debian<br>
+Ubuntu<br>
+Red Hat 
 </details>
 <br>
 
-<summary></summary>
-
+<details>
+<summary>Debian GNU/Linux distribution promotes...</summary>
+a vision of an operating system that respects
+the freedoms of the user to run, study, distribute and improve the software.
 </details>
+<br>
 
 <details>
-<summary></summary>
-
+<summary>Ubuntu's mission is</summary>
+to bring an easy to use Linux desktop
+environment.
 </details>
-
-<summary></summary>
-
-</details>
-
-<summary></summary>
-
-</details>
+<br>
 
 <details>
-<summary></summary>
-
+<summary>title</summary>
+detail
 </details>
+<br>
 
-<summary></summary>
-
+<details>
+<summary>title</summary>
+detail
 </details>
+<br>
 
-<summary></summary>
-
+<details>
+<summary>title</summary>
+detail
 </details>
+<br>
+
+<details>
+<summary>title</summary>
+detail
+</details>
+<br>
+
+<details>
+<summary>title</summary>
+detail
+</details>
+<br>
+
+<details>
+<summary>title</summary>
+detail
+</details>
+<br>
+
+<details>
+<summary>title</summary>
+detail
+</details>
+<br>
+
+<details>
+<summary>title</summary>
+detail
+</details>
+<br>
