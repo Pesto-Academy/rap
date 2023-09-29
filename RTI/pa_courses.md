@@ -19,6 +19,8 @@ layout: default
         - View, create and kill system processes.
     - Learning Resources
         - [Linux Essentials lpi.org](https://learning.lpi.org/en/learning-materials/010-160/)
+        - NDG Linux Essentials (English - 2.20 - Self-Paced) via Cisco NetAcad
+            - Contact Keith to enroll
     - Assessments/Certification
         - [Linux Essentials - Linux Professional Institute](https://www.lpi.org/our-certifications/linux-essentials-overview/)
 
