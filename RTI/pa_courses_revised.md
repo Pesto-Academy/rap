@@ -12,7 +12,7 @@ layout: default
 
 #### Courses
 
-- **PA010 Introduction to Linux** (core)
+- **[PA010 Introduction to Linux](linux.md)** (core)
   - Outcomes/Objectives - As an apprentice, I will
     - Create, move, and delete files and directories under the working directory.
     - Use terminal commands and text editors to manage project files.
@@ -28,7 +28,7 @@ layout: default
   - Assessments/Certification
     - [Linux Essentials - Linux Professional Institute](https://www.lpi.org/our-certifications/linux-essentials-overview/)
 
-- **PA020 Introduction to Git and GitHub** (core)
+- **[PA020 Introduction to Git and GitHub](git.md)** (core)
   - Outcomes/Objectives - As an apprentice, I will
     - Commit code to git version control.
     - Create and manage a GitHub repository.
