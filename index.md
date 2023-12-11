@@ -13,7 +13,7 @@ For information on the U.S. Department of Labor's Registered Apprenticeship prog
 
 For information on Michigan's RAP efforts, see [LEO - Registered Apprenticeships](https://www.michigan.gov/leo/bureaus-agencies/wd/apprenticeships)
 
-This RAP [Appendix A](ThePestoGroup_AppendixA.pdf) outlines the occupational standards that define this workforce development experience.
+This RAP [Appendix A](doc/ThePestoGroup_AppendixA.pdf) outlines the occupational standards that define this workforce development experience.
 
 ---
 
