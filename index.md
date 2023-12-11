@@ -34,7 +34,8 @@ This RAP [Appendix A](doc/ThePestoGroup_AppendixA.pdf) outlines the occupational
 ### [**Related Technical Instruction**](RTI/index.md)
 
 - [PA Courses](RTI/pa_courses.md)
-- [RTI Schedule 2023 Q4](RTI/2024.q4.schedule.md)
+- [RTI Schedule 2023 Q4](RTI/2023.q4.schedule.md)
+- [RTI Schedule 2024 Q1](RTI/2024.q1.schedule.md) (tentative)
 
 ---
 
