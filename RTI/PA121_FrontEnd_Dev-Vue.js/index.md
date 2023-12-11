@@ -1,3 +1,8 @@
+---
+layout: default
+---
+<div style="text-align: right"><img src="../../res/logo_with_text.png" width="200"></div>
+
 # Mastering Vue.js 3 with TypeScript
 
 ## **Course Title:**
