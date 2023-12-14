@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-# The Pesto Group
+# Pesto Academy
 
 ## U.S. Department of Labor
 
 ## Registered Apprenticeship Program
 
-### The Pesto Group's NorthCoast.Work team is formalizing its software engineering and quality assurance apprenticeship program by building a Department of Labor's Registered Apprenticeship Program (RAP). A robust talent pipeline will emerge delivering a diverse and highly skilled workforce. This innovative application of RAP will scale to other companies across Michigan and the U.S
+### The Pesto Group's workforce development team is formalizing its software engineering and quality assurance apprenticeship program by building a Department of Labor's Registered Apprenticeship Program (RAP). The newly formed non-profit, Pesto Academy, is creating this robust talent pipeline delivering a diverse and highly skilled workforce. This innovative application of RAP will scale to other companies across Michigan and the U.S.
 
 For information on the U.S. Department of Labor's Registered Apprenticeship program, see [Apprenticeship.gov](https://www.apprenticeship.gov/)
 
